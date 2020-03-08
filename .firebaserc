@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "gameoftheyear-crr": {
+      "hosting": {
+        "GameOfTheYear": [
+          "gameoftheyear-crr"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "gameoftheyear-crr"
+  }
+}
